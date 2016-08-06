@@ -25,9 +25,9 @@ GA + your iOS Immersive Team
 
 First, you'll need to set up a few accounts, if you haven't already.
 
-* [ ] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
-* [ ] **Required**: Register for an [Apple ID, if you don't already have one.](https://www.apple.com/support/appleid/create-signin/)
-* [ ] *Optional*: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
+* [x] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
+* [x] **Required**: Register for an [Apple ID, if you don't already have one.](https://www.apple.com/support/appleid/create-signin/)
+* [x] *Optional*: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
 
 Note: *Students will need to sign up for a paid Apple Developer account in order to submit apps to the app store. We'll discuss this further in-class!*
 
@@ -36,12 +36,12 @@ Note: *Students will need to sign up for a paid Apple Developer account in order
 
 Next, let's review the technology required and do some light installations. For more information, check out our policy below.
 
-* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
-* [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
-* [ ] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
-* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group, where you'll be able to share resources and tips with fellow students in our `iosi-precourse` channel.
-* [ ] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
-* [ ] *Optional*: If you have a secondary iOS device (e.g. iPhone or iPad), bring it to class so you can use it to test your apps!
+* [x] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
+* [x] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
+* [x] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
+* [x] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group, where you'll be able to share resources and tips with fellow students in our `iosi-precourse` channel.
+* [x] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
+* [x] *Optional*: If you have a secondary iOS device (e.g. iPhone or iPad), bring it to class so you can use it to test your apps!
 
 #### Technology Policy
 
@@ -55,15 +55,15 @@ Student laptops should be using OS X 10.10 or higher, ideally 10.11 (El Capitan)
 
 Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like you to complete before starting the course. Remember to work through *all of the required material* at a minimum, although we highly recommend completing the optional materials as well, if you have the time!
 
-- [ ] Master the Command Line
+- [x] Master the Command Line
 	* **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
 	* *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
-- [ ] Control Your Versions
+- [x] Control Your Versions
 	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
 	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
--  [ ] Practice the Fundamentals
+-  [x] Practice the Fundamentals
 	* **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
 	* *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
 
