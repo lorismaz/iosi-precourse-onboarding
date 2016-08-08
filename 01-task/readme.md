@@ -76,7 +76,7 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
-- [ ] Apple & iOS
+- [x] Apple & iOS
 	* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
 	* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
 
@@ -84,7 +84,7 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 <a name="projects"></a>
 ## Projects
 
-[x] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
+- [x] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
 
 <a name="resources"></a>
 ## Optional Resources
