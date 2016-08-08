@@ -63,11 +63,11 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
 	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
--  [x] Practice the Fundamentals
+- [x] Practice the Fundamentals
 	* **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
 	* *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
 
--  [ ] Experiment with Xcode
+- [x] Experiment with Xcode
 	* **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
 	* *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
 	* *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
