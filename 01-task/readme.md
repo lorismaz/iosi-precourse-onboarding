@@ -72,7 +72,7 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 	* *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
 	* *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
 
-- [ ] Mobile Networks 101
+- [x] Mobile Networks 101
 	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
